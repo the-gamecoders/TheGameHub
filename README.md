@@ -1,5 +1,9 @@
 # TheGameHub
 It is a virtual cricket gaming application, where users create a team to compete with other created teams. 
+
+### Getting Started
+Download the repository and extract the file at any location
+
 ### Prerequisites
 ```
 Python 3.6
